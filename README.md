@@ -53,7 +53,7 @@
 <p align="center">
   <br>
   <a href="https://api.whatsapp.com/send?phone=551992534456&text=Olá vi seu perfil no github, estou entrando em contato com você!" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/WhatsApp.svg.png"/></code>
+    <code><img height="60" width="60" src="https://web.whatsapp.com/apple-touch-icon.png"/></code>
   </a>
   
 </p>
