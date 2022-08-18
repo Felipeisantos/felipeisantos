@@ -6,7 +6,7 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 <li> 💻 i'm studying to become a Full stack developer </li>
-<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 React-native </li>
+<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Java|Spring Boot </li>
 <li> 😍 ＣＨＩＬＬ　ＲＡＤＩＯ ２４／７ + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 
 <br/>
