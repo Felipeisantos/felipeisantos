@@ -40,8 +40,8 @@
 <br>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeisantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeisantos&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipeisantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeisantos&layout=compact&langs_count=16&theme=dark"/>
 </p>
   
 </details>
