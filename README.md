@@ -31,18 +31,6 @@
 <br/>
 
 #
-
-<details open="">
-<summary>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
-</summary>
-<br>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipeisantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeisantos&layout=compact&langs_count=16&theme=dark"/>
-</p>
   
 </details>
 <br>
