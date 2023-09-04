@@ -59,19 +59,6 @@ Hi I'm Felipe
 
 
 </details>
-<br>
-<h2>
-   𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
-   <a target="_blank">
-   <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
-   </a>
-</h2>
-<p align="center">
-   <br>
-   <a href="https://api.whatsapp.com/send?phone=551992534456&text=Olá vi seu perfil no github, estou entrando em contato com você!" target="_blank">
-   <code><img height="60" width="60" src="https://web.whatsapp.com/apple-touch-icon.png"/></code>
-   </a>
-</p>
 <br/>
 
 ![Snake animation](https://github.com/felipeisantos/felipeisantos/blob/output/github-contribution-grid-snake.svg)
