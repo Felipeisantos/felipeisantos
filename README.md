@@ -61,7 +61,6 @@ Hi I'm Felipe
 </details>
 <br/>
 
-![Snake animation](https://github.com/felipeisantos/felipeisantos/blob/output/github-contribution-grid-snake.svg)
 
 #
 
